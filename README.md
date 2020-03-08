@@ -15,7 +15,7 @@ These policies don't make any assumption about organizational structure, team si
 
 # Other recommendedations
 This only covers one small piece of endpoint and identity security. There are many more things you should look into deploying within your environment to better your security.
-* [Fine-Grained Password Policies](https://docs.microsoft.com/en-us/prhttps://docs.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview)evious-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc770394(v=ws.10))
+* [Fine-Grained Password Policies](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc770394(v=ws.10))
 * [Group Managed Service Accounts](https://docs.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview)
 * [Local Administrator Password Solution](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts#sec-create-unique-passwords)
 * [Azure AD Password Protection](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises)
